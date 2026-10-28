@@ -1,0 +1,22 @@
+id: cma-1963-256
+title: Cleveland 1963.256, Hours of Queen Isabella
+summary: Flowers, insects and a bird from the strewn floral border of folio 80v of the Hours of Queen Isabella the Catholic (Ghent or Bruges, ca. 1500, Master of the First Prayerbook of Maximilian and associates), Cleveland Museum of Art 1963.256.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from a Cleveland Museum of Art Open Access (CC0) image; see SOURCES.md.
+period: ca. 1500
+region: Flanders
+style: Ghent-Bruges illuminated manuscript border
+origin:
+  institution: Cleveland Museum of Art
+  object_identifier: 1963.256.80.b
+  object_title: Hours of Queen Isabella the Catholic, fol. 80v
+  record_url: https://www.clevelandart.org/art/1963.256
+tags:
+  - flowers
+  - insects
+  - trompe-l-oeil
+  - book-of-hours

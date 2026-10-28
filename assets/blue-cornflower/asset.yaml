@@ -1,0 +1,49 @@
+# descriptive: find it and understand it
+id: blue-cornflower
+title: Blue cornflower head
+description: A single blue cornflower seen from the front, its ragged fringed petals radiating in two layers around a dark navy centre with pale dots; the petals are mid blue with lighter streaks and a few white highlights at the tips. No stem or leaf; the background is transparent.
+type: illustration
+categories:
+  - floral
+  - botanical
+subjects:
+  - cornflower
+  - flower
+colors:
+  - blue
+  - light-blue
+  - black
+facing: viewer
+view: front
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - { asset: cma-1963-256/gold-floral-frame, role: variant }
+usage_notes:
+  - Cut from the bottom band of the strewn-flower border; the painted shadow on the gold ground is not included.
+display_width:
+  - 100
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: Floral border surrounding Virgin and Christ with Angels
+  object_identifier: 1963.256.80.b; Hours of Queen Isabella, fol. 80v
+  date: ca. 1500
+  artist: Master of the First Prayerbook of Maximilian and associates
+  record_url: https://www.clevelandart.org/art/1963.256.80.b
+  image_url: https://archive.org/download/clevelandart-1963.256.80.b-hours-of-queen-isabe/1963.256.80.b_full.jpg
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: 74b406120e8c2872fddd48d75be535e24f479ea4b15b07a233855a072f229472
+license: null
