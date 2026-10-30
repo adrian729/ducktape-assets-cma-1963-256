@@ -3,7 +3,7 @@
 
 Flowers, insects and a bird from the strewn floral border of folio 80v of the Hours of Queen Isabella the Catholic (Ghent or Bruges, ca. 1500, Master of the First Prayerbook of Maximilian and associates), Cleveland Museum of Art 1963.256.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-1963-256`, historical, 6 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `cma-1963-256`, historical, 6 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `cma-1963-256/blue-cornflower`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1963-256@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-cma-1963-256@1.0.0/webp/blue-cornflower-64.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-cma-1963-256`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-cma-1963-256-masters`; never put a master on a page.
